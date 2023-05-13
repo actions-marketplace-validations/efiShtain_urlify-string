@@ -1,0 +1,12 @@
+name: "Urlify String"
+description: "Convert any string to a valid url or domain name"
+inputs:
+  string: # id of input
+    description: "The string needed to urlify"
+    required: true
+outputs:
+  urlified-string: # id of output
+    description: "The urlified version of the string"
+runs:
+  using: "node16"
+  main: "dist/index.js"
