@@ -1,6 +1,6 @@
 # Convert string to valid url string action
 
-This action takes any string and make sure it is a valid for inclusion as a url or domain name
+This action takes any string and make sure it is valid for inclusion as a url or domain name
 
 ## Algorithm
 
